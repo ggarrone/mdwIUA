@@ -1,0 +1,2153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bugzilla exporter="proyecto.bugzilla@gmail.com" maintainer="proyecto.bugzilla@gmail.com" urlbase="/usr/local/bugzilla/bugzilla.dtd" version="4.4.1">
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 1</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>/usr/local/cruisecontrol-bin-2.8.4/projects/connectfour/test/net/sourceforge/cruisecontrol/sampleproject/connectfour/PlayingStandTest.java:43: error: cannot find symbol</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 2</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>    public void testFourConnected() throws GameOverException {</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 3</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>                                           ^</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 4</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>  symbol:   class GameOverException</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 5</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>  location: class PlayingStandTest</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 6</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>/usr/local/cruisecontrol-bin-2.8.4/projects/connectfour/test/net/sourceforge/cruisecontrol/sampleproject/connectfour/PlayingStandTest.java:69: error: cannot find symbol</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 7</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>    public void testFourConnectedHorizontally() throws GameOverException {</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 8</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>                                                       ^</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 9</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>  symbol:   class GameOverException</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 10</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>  location: class PlayingStandTest</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 11</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>/usr/local/cruisecontrol-bin-2.8.4/projects/connectfour/test/net/sourceforge/cruisecontrol/sampleproject/connectfour/PlayingStandTest.java:81: error: cannot find symbol</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 12</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>    private void createRedWinsHorizontally(PlayingStand stand) {</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 13</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>                                           ^</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 14</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>  symbol:   class PlayingStand</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 15</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>  location: class PlayingStandTest</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 16</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>/usr/local/cruisecontrol-bin-2.8.4/projects/connectfour/test/net/sourceforge/cruisecontrol/sampleproject/connectfour/PlayingStandTest.java:99: error: cannot find symbol</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 17</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>        Cell newCell = new Cell(10, 5);</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 18</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>                           ^</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 19</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>  symbol:   class Cell</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 20</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>  location: class CellTest</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 21</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>/usr/local/cruisecontrol-bin-2.8.4/projects/connectfour/test/net/sourceforge/cruisecontrol/sampleproject/connectfour/PlayingStandTest.java:44: error: cannot find symbol</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 22</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>        PlayingStand stand = new PlayingStand();</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 23</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>        ^</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 24</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>  symbol:   class PlayingStand</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 25</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>  location: class PlayingStandTest</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 26</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>/usr/local/cruisecontrol-bin-2.8.4/projects/connectfour/test/net/sourceforge/cruisecontrol/sampleproject/connectfour/PlayingStandTest.java:44: error: cannot find symbol</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 27</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>        PlayingStand stand = new PlayingStand();</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 28</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>                                 ^</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 29</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>  symbol:   class PlayingStand</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 30</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>  location: class PlayingStandTest</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 31</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>/usr/local/cruisecontrol-bin-2.8.4/projects/connectfour/test/net/sourceforge/cruisecontrol/sampleproject/connectfour/PlayingStandTest.java:65: error: cannot find symbol</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 32</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>        } catch (GameOverException expected) {</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 33</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>                 ^</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 34</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>  symbol:   class GameOverException</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 35</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>  location: class PlayingStandTest</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 36</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>/usr/local/cruisecontrol-bin-2.8.4/projects/connectfour/test/net/sourceforge/cruisecontrol/sampleproject/connectfour/PlayingStandTest.java:70: error: cannot find symbol</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 37</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>        PlayingStand stand = new PlayingStand();</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 38</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>        ^</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 39</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>  symbol:   class PlayingStand</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 40</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>  location: class PlayingStandTest</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 41</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>/usr/local/cruisecontrol-bin-2.8.4/projects/connectfour/test/net/sourceforge/cruisecontrol/sampleproject/connectfour/PlayingStandTest.java:70: error: cannot find symbol</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 42</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>        PlayingStand stand = new PlayingStand();</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 43</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>                                 ^</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 44</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>  symbol:   class PlayingStand</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 45</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>  location: class PlayingStandTest</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 46</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>/usr/local/cruisecontrol-bin-2.8.4/projects/connectfour/test/net/sourceforge/cruisecontrol/sampleproject/connectfour/PlayingStandTest.java:77: error: cannot find symbol</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 47</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>        } catch (GameOverException expected) {</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 48</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>                 ^</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 49</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>  symbol:   class GameOverException</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 50</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>  location: class PlayingStandTest</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 51</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>/usr/local/cruisecontrol-bin-2.8.4/projects/connectfour/test/net/sourceforge/cruisecontrol/sampleproject/connectfour/PlayingStandTest.java:100: error: cannot find symbol</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 52</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>        PlayingStand stand = new PlayingStand();</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 53</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>        ^</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 54</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>  symbol:   class PlayingStand</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 55</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>  location: class PlayingStandTest</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 56</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>/usr/local/cruisecontrol-bin-2.8.4/projects/connectfour/test/net/sourceforge/cruisecontrol/sampleproject/connectfour/PlayingStandTest.java:100: error: cannot find symbol</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 57</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>        PlayingStand stand = new PlayingStand();</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 58</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>                                 ^</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 59</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>  symbol:   class PlayingStand</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 60</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>  location: class PlayingStandTest</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 61</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>/usr/local/cruisecontrol-bin-2.8.4/projects/connectfour/test/net/sourceforge/cruisecontrol/sampleproject/connectfour/PlayingStandTest.java:107: error: cannot find symbol</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 62</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>        } catch (GameOverException expected) {</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 63</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>                 ^</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 64</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>  symbol:   class GameOverException</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 65</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>  location: class PlayingStandTest</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 66</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>/usr/local/cruisecontrol-bin-2.8.4/projects/connectfour/test/net/sourceforge/cruisecontrol/sampleproject/connectfour/PlayingStandTest.java:110: error: cannot find symbol</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 67</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>        assertEquals(Chip.RED, stand.getWinner());</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 68</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>                     ^</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 69</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>  symbol:   variable Chip</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 70</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>  location: class PlayingStandTest</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 71</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>/usr/local/cruisecontrol-bin-2.8.4/projects/connectfour/test/net/sourceforge/cruisecontrol/sampleproject/connectfour/PlayingStandTest.java:114: error: cannot find symbol</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 72</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>        PlayingStand stand = new PlayingStand();</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 73</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>        ^</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 74</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>  symbol:   class PlayingStand</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 75</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>  location: class PlayingStandTest</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 76</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>/usr/local/cruisecontrol-bin-2.8.4/projects/connectfour/test/net/sourceforge/cruisecontrol/sampleproject/connectfour/PlayingStandTest.java:114: error: cannot find symbol</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 77</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>        PlayingStand stand = new PlayingStand();</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 78</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>                                 ^</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 79</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>  symbol:   class PlayingStand</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 80</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>  location: class PlayingStandTest</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 81</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>/usr/local/cruisecontrol-bin-2.8.4/projects/connectfour/test/net/sourceforge/cruisecontrol/sampleproject/connectfour/PlayingStandTest.java:119: error: cannot find symbol</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 82</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>        } catch (OutOfTurnException expected) {</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 83</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>                 ^</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 84</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>  symbol:   class OutOfTurnException</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 85</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>  location: class PlayingStandTest</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-12-02T06:23:12</creation_ts>
+<short_desc>--&gt; connectfour:build.1:2013-12-02T06:23:12:: error 86</short_desc>
+<delta_ts>2013-12-02T06:23:12</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-12-02T06:23:12</bug_when>
+<thetext>/usr/local/cruisecontrol-bin-2.8.4/projects/connectfour/test/net/sourceforge/cruisecontrol/sampleproject/connectfour/PlayingStandTest.java:126: error: cannot find symbol</thetext>
+</long_desc>
+</bug>
+</bugzilla>

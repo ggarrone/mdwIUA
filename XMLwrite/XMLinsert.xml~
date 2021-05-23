@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bugzilla exporter="proyecto.bugzilla@gmail.com" maintainer="proyecto.bugzilla@gmail.com" urlbase="/usr/local/bugzilla/bugzilla.dtd" version="4.4.1">
+<bug>
+<bug_id/>
+<creation_ts>2013-04-30T17:07:19</creation_ts>
+<short_desc>--&gt; Prueba 17-11:build.3:2013-04-30T17:07:19:: error 1</short_desc>
+<delta_ts>2013-04-30T17:07:19</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>uninitialized</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-04-30T17:07:19</bug_when>
+<thetext>/opt/cruisecontrol-bin-2.8.4/projects/FormulasMatematicas/src/CalculoArea/CirculoArea.java:8: cannot find symbol</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-04-30T17:07:19</creation_ts>
+<short_desc>--&gt; Prueba 17-11:build.3:2013-04-30T17:07:19:: error 2</short_desc>
+<delta_ts>2013-04-30T17:07:19</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>uninitialized</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-04-30T17:07:19</bug_when>
+<thetext>Prueba Fran 08-11</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-04-30T17:07:19</creation_ts>
+<short_desc>--&gt; Prueba 17-11:build.3:2013-04-30T17:07:19:: error 3</short_desc>
+<delta_ts>2013-04-30T17:07:19</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-04-30T17:07:19</bug_when>
+<thetext>location: class CalculoArea.CirculoArea</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-04-30T17:07:19</creation_ts>
+<short_desc>--&gt; Prueba 17-11:build.3:2013-04-30T17:07:19:: error 4</short_desc>
+<delta_ts>2013-04-30T17:07:19</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-04-30T17:07:19</bug_when>
+<thetext>	        this.radio = radio;  </thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-04-30T17:07:19</creation_ts>
+<short_desc>--&gt; Prueba 17-11:build.3:2013-04-30T17:07:19:: error 5</short_desc>
+<delta_ts>2013-04-30T17:07:19</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-04-30T17:07:19</bug_when>
+<thetext>	            ^</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-04-30T17:07:19</creation_ts>
+<short_desc>--&gt; Prueba 17-11:build.3:2013-04-30T17:07:19:: error 6</short_desc>
+<delta_ts>2013-04-30T17:07:19</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-04-30T17:07:19</bug_when>
+<thetext>/opt/cruisecontrol-bin-2.8.4/projects/FormulasMatematicas/src/CalculoArea/CirculoArea.java:13: cannot find symbol</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-04-30T17:07:19</creation_ts>
+<short_desc>--&gt; Prueba 17-11:build.3:2013-04-30T17:07:19:: error 7</short_desc>
+<delta_ts>2013-04-30T17:07:19</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-04-30T17:07:19</bug_when>
+<thetext>symbol  : variable radio</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-04-30T17:07:19</creation_ts>
+<short_desc>--&gt; Prueba 17-11:build.3:2013-04-30T17:07:19:: error 8</short_desc>
+<delta_ts>2013-04-30T17:07:19</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-04-30T17:07:19</bug_when>
+<thetext>location: class CalculoArea.CirculoArea</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-04-30T17:07:19</creation_ts>
+<short_desc>--&gt; Prueba 17-11:build.3:2013-04-30T17:07:19:: error 9</short_desc>
+<delta_ts>2013-04-30T17:07:19</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-04-30T17:07:19</bug_when>
+<thetext>	    return (Math.PI)*(Math.pow(radio,2));</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-04-30T17:07:19</creation_ts>
+<short_desc>--&gt; Prueba 17-11:build.3:2013-04-30T17:07:19:: error 10</short_desc>
+<delta_ts>2013-04-30T17:07:19</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-04-30T17:07:19</bug_when>
+<thetext>	                               ^</thetext>
+</long_desc>
+</bug>
+<bug>
+<bug_id/>
+<creation_ts>2013-04-30T17:07:19</creation_ts>
+<short_desc>--&gt; Prueba 17-11:build.3:2013-04-30T17:07:19:: error 11</short_desc>
+<delta_ts>2013-04-30T17:07:19</delta_ts>
+<reporter_accessible>1</reporter_accessible>
+<cclist_accessible>1</cclist_accessible>
+<classification_id>1</classification_id>
+<classification>Unclassified</classification>
+<product>TestProduct</product>
+<component>TestComponent</component>
+<version>unspecified</version>
+<rep_platform>uninitialized</rep_platform>
+<op_sys>Linux</op_sys>
+<bug_status>CONFIRMED</bug_status>
+<priority>---</priority>
+<bug_severity/>
+<reporter name="root">proyecto.bugzilla@gmail.com</reporter>
+<long_desc isprivate="0">
+<commentid/>
+<who name="root">proyecto.bugzilla@gmail.com</who>
+<bug_when>2013-04-30T17:07:19</bug_when>
+<thetext>2 errors</thetext>
+</long_desc>
+</bug>
+</bugzilla>
